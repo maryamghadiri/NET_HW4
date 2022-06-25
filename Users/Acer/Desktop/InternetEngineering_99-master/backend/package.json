@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "geojson-validation": "^0.2.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "whiskers": "^0.4.0",
     "winston": "^3.2.1"
   },
